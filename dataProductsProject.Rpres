@@ -1,0 +1,33 @@
+Data Products Course Project
+========================================================
+author: Dana Jacob
+date: August 2016
+autosize: true
+
+Objective
+========================================================
+
+This is the course project for Developing Data Products module of Data Science program on coursera. 
+
+The objective of the project is to develop a Shiny app and publish it on the Rstudio Shiny server. 
+
+Ounce-Gram Converter App
+========================================================
+
+I developed a Shiny app to convert number of ounces to number of grams, or vice versa. The app is at <https://danajacob.shinyapps.io/course9_data-product/>.This app will come handy if you are tracking your diet and want to be healthy.
+
+
+Formula Used
+========================================================
+
+The app is based on the following formula:
+
+1 oz = 28.3495 gm
+
+1 gm = 0.035274 oz
+
+
+Source Code
+========================================================
+
+The source code is located at <https://github.com/danajacob/developing_data_products>.
